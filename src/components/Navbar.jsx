@@ -93,7 +93,7 @@ const Navbar = () => {
 				<ul>
 					<li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] my-2 hover:ml-[-5px] duration-500 bg-blue-600 hover:my-4 hover:animate-bounce'>
 						<a
-							href='https://www.linkedin.com/in/ikemefuna-ihedioha-a944b6268/'
+							href='https://www.linkedin.com/in/ikemefunajudeihedioha/'
 							className='flex justify-between items-center w-full text-white hover:text-black'>
 							LinkedIn <FaLinkedin size={30} />
 						</a>
