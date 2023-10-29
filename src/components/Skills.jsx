@@ -45,7 +45,7 @@ const Skills = () => {
 							src={Tailwind}
 							alt='HTML Icon'
 						/>
-						<p className='text-center'>Tailwind CSSL</p>
+						<p className='text-center'>Tailwind CSS</p>
 					</div>
 					<div className='duration-300 hover:scale-105 border border-gray-200 rounded-lg py-6'>
 						<img
