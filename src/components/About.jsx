@@ -15,8 +15,8 @@ const About = () => {
                 <div className='sm:text-right text-3xl font-bold'>
                     <p >Hello, I'm Jude. You're welcome to take a look around.</p>
                 </div>
-                <div>
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit perferendis nesciunt qui non maxime deleniti fuga temporibus possimus maiores labore praesentium sed illum amet, aliquam facere quo cumque, ex corrupti.
+                <div className='text-xl'>
+                    A Tech enthusiast passionate about building nice and eye-catching UIs for web users. Hobbies include, singing, video games, snacking. All in all i'm just a fun personality to be around🤗🤗
                 </div>
             </div>
         </div>
